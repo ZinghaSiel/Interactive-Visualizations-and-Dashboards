@@ -6,7 +6,6 @@ This exercise involves building an interactive dashboard to explore the [Belly B
 
 The following steps were completed in order to obtain our dashboard;
     ![Dashboard Page](Images/dashboard_part1.png)
-    ![Dashboard Page](Images/dashboard_part2.png)
 
 * Creating a PIE chart that uses data from samples route (`/samples/<sample>`) to display the top 10 samples.
 ![PIE Chart](Images/pie_chart.png)
